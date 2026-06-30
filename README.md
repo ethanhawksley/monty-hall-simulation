@@ -8,7 +8,7 @@ A high-performance simulation of the Monty Hall probability paradox written in R
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/ethan-hawksley/monty-hall-simulation
+   git clone https://github.com/ethanhawksley/monty-hall-simulation
    cd monty-hall-simulation/monty-hall-simulation
    ```
 2. Compile and run:
